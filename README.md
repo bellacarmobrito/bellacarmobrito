@@ -1,45 +1,56 @@
-### Olá, me chamo Isabella Brito 👋🏻👋🏻👩🏻‍💻👩🏻‍💻
+<h1 align="center">Olá, eu sou a Isabella Brito</h1>
+<h3 align="center">Desenvolvedora Full Stack em transição de carreira</h3>
 
-#### Sobre Mim 🙂🙂
+<p align="center">
+  De mais de 10 anos liderando produção de eventos corporativos nacionais e internacionais
+  para clientes como Takeda e Bayer, para o desenvolvimento de software — trocando a logística
+  de grandes eventos pelo código, sem perder a paixão por resolver problemas complexos em escala.
+</p>
 
-📌 Sou uma profissional da área de eventos com mais de 10 anos de experiência, buscando expandir minhas oportunidades profissionais por meio de uma transição de carreira para o Desenvolvimento de Software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/isabellabrito1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:isadocarmo7@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://isabellabrito.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-7C6AF0?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
 
-📌 Em fevereiro deste ano, concluí o Curso de Desenvolvimento Fullstack na Cubos Academy e, desde então, tenho me dedicado a aprimorar meu conhecimento e aprender diferentes tecnologias que possam impulsionar minha carreira.
+---
 
-📌 Acredito firmemente no poder transformador da educação combinada com a tecnologia e como ela pode mudar realidades.
+### 🎓 Formação
+Análise e Desenvolvimento de Sistemas — **FIAP** · Desenvolvimento Full Stack — **Cubos Academy**
 
-📌 Sou uma pessoa curiosa, com uma abordagem analítica e habilidades de comunicação desenvolvidas. O aprendizado é uma paixão que me encanta e me motiva diariamente a me aprimorar.
+### 🏆 Destaques
+- **1º Lugar — NEXT FIAP 2025**, com o Challenge LetsSign Frontend
+- **Finalista — NEXT FIAP 2026**, com o Challenge WTC (app Android nativo)
 
-📌 Meu objetivo é atuar como Desenvolvedora Full Stack, aproveitando minhas habilidades e conhecimentos para criar soluções tecnológicas inovadoras. </br>
+### 🔭 Buscando
+Minha primeira posição como desenvolvedora Full Stack, pra aplicar tudo que venho construindo.
 
-### Habilidades: 🧩🧩
+---
 
-<div style="display: inline_block"> <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS 3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div></br>
+### Stack
 
-### Atualmente aprendendo: ⚡⚡⚡
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-<div style="display: inline"> 
-<img  alt="SAAS" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass"/> <img  alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img  alt='NextJS' src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img  alt='NestJS' src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> 
-<img  alt='AWS' src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div></br>
+---
 
-### Entre em contato comigo:
+### 📌 Projetos em destaque
+Fixei abaixo no meu perfil os repositórios que mais representam minha jornada até aqui — do meu [portfólio pessoal](https://isabellabrito.vercel.app/) (Angular 21 com SSR) aos desafios da FIAP em C#/.NET e Kotlin.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1078394773141979247)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellabrito1/)
+---
 
-</br>
-
-![Isabella Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellacarmobrito&show_icons=true&theme=cobalt)
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellacarmobrito&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bellacarmobrito&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellacarmobrito&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
 
 
 
