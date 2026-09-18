@@ -45,12 +45,7 @@ Minha primeira posição como desenvolvedora Full Stack, pra aplicar tudo que ve
 ### 📌 Projetos em destaque
 Fixei abaixo no meu perfil os repositórios que mais representam minha jornada até aqui — do meu [portfólio pessoal](https://isabellabrito.vercel.app/) (Angular 21 com SSR) aos desafios da FIAP em C#/.NET e Kotlin.
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellacarmobrito&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellacarmobrito&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
 
 
 
