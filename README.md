@@ -20,7 +20,7 @@ Análise e Desenvolvimento de Sistemas — **FIAP** · Desenvolvimento Full Stac
 
 ### 🏆 Destaques
 - **1º Lugar — NEXT FIAP 2025**, com o Challenge LetsSign Frontend
-- **Finalista — NEXT FIAP 2026**, com o Challenge WTC (app Android nativo)
+- **1º Lugar — NEXT FIAP 2026**, com o Challenge WTC (app Android nativo)
 
 ### 🔭 Buscando
 Minha primeira posição como desenvolvedora Full Stack, pra aplicar tudo que venho construindo.
